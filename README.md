@@ -10,4 +10,10 @@ Data analysis with Pandas python library
 # matplotX.py :
 Data visualization with matplotlib python library
 
+# numpy0.py :
+Introduction to numpy
+
+# visionX.py
+Digital Image processing with numpy and opencv
+
 
